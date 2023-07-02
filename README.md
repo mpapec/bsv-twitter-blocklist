@@ -1,4 +1,4 @@
-BSV Twitter Blocklist
+BSV Twitter Blocklist by Lopp
 =====================================
 
 What is This?
